@@ -28,3 +28,6 @@ Display the retrieved timezone in the designated area.
 
 ## Relevant Links
 Figma Link- https://www.figma.com/file/CSwRxPkdiFzE0H9hqbZiOm/Untitled?node-id=0%3A1&t=PGLrcIv4Ch80kUit-1
+
+## Deplyed Link 
+Link :  https://kaliprasadp7.github.io/timezone-information-using-geo-coordinates/
